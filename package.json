@@ -14,11 +14,7 @@
         "type": "git",
         "url": "git+https://github.com/edwinm/playground.git"
     },
-    "author": {
-        "name": "Edwin Martin",
-        "email": "edwin@bitstorm.org",
-        "url": "https://bitstorm.org/"
-    },
+    "author": "<Your name here>",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/edwinm/playground/issues"
